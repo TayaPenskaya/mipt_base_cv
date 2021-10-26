@@ -4,8 +4,8 @@
 
 Demosaicing was realized by the Variable Number of Gradients algorithm.
 
-PSNR: 16.389852617380292
-Speed: 2871.66it/s (8656848 -- 50:03)
+PSNR: 16.389852617380292 \
+Speed: 2871.66it/s (8656848 pixels in 50 min)
 
 - [received image](./data/received_img.jpeg)
 
